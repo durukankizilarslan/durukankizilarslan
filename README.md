@@ -1,6 +1,5 @@
 # Hi there, I'm Durukan! 👋
 ##   I'm an Engineering Technologist, Designer and 3D Artist !
-🔩-🎨-👾
 
 - 🔭 I’m currently working on Front-End Web Development and Software Testing.
 - 👯 I’m looking to collaborate on anything fun and innovative!
