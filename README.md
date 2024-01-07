@@ -1,8 +1,6 @@
-### Hi there, I'm Durukan! 👋
-
----
-
+# Hi there, I'm Durukan! 👋
 ## I'm an Engineering Technologist, Designer and 3D Artist.
+...
 <!--
 **durukankizilarslan/durukankizilarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
