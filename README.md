@@ -3,12 +3,17 @@
 
 ![Github Profile Banner](github-profile-banner.JPG)
 
+<h2>Go ahead, connect with me 🤝🔗</h2>
+
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durukan-kizilarslan/)
+
 #   I'm an Engineering Technologist, Designer and 3D Artist !
 - 🔭 I’m currently working on Front-End Web Development and Software Testing.
 - 👯 I’m looking to collaborate on anything fun and innovative!
 - 🎯 Goals: To make a 3D game which is fun and has all the bells and whistles. It should include a captivating scenario too.
-- ⚡ Fun fact: I'm into fitness 💪🏼, aerial arts 🤸 and personal growth 🌱. 
- 
+- ⚡ Fun fact: I'm into fitness 💪🏼, aerial arts 🤸 and personal growth 🌱.
+
+
 
 ## Languages and Tools ⚙️
 ### 👨‍💻 Programming
