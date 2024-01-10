@@ -1,6 +1,6 @@
 # Hi there, I'm Durukan! 👋
 ##   I'm an Engineering Technologist, Designer and 3D Artist !
-
+![Github Profile Banner](github-profile-banner.jpg)
 - 🔭 I’m currently working on Front-End Web Development and Software Testing.
 - 👯 I’m looking to collaborate on anything fun and innovative!
 - 🎯 Goals: To make a 3D game which is fun and has all the bells and whistles. It should include a captivating scenario too.
