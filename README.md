@@ -10,7 +10,7 @@
 ##   I'm an Engineering Technologist, Designer and 3D Artist !
 - 🔭 I’m currently working on Front-End Web Development and Software Testing.
 - 👯 I’m looking to collaborate on anything fun and innovative!
-- 🎯 Goals: To make a 3D game which is fun and has all the bells and whistles. It should include a captivating scenario too.
+- 🎯 Goals: To make a 3D game which is fun and has a captivating scenario.
 - ⚡ Fun fact: I'm into fitness 💪🏼, aerial arts 🤸 and personal growth 🌱.
 
 
